@@ -1,2 +1,2 @@
 # hello-world
-manage my project
+serialize my data in the project and add features to it.
